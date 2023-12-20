@@ -1,5 +1,15 @@
+# Hola :computer:! 
+Mi nombre es Juan Bautista Malina, soy de Argentina y soy Backend Developer
 
-- 👋 Hi, I’m @juanbautistamalina
-- 📚 I like personal development
-- 👾 I’m currently learning about HTML, CSS and JavaScript
-- 📫 How to reach me malinajuanbautista@gmail.com
+
+## Habilidades Técnicas :pushpin:
+
+* Lenguajes de Programación:  HTML, CSS, JavaScript, Python, Java, C
+* Herramientas de Desarrollo: Git,VS Code
+
+## Más sobre mí: :bar_chart:
+* Aprendizaje constante
+* Autodidacta
+
+## Contáctame :mailbox_closed:
+* malinajuanbautista@gmail.com
