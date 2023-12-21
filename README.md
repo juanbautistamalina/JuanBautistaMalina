@@ -3,11 +3,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 </header> 
-<style>
-    body{
-        font-family: 'Montserrat', sans-serif;
-    }
-</style>
+
 
 <body>
     <h1 align="center">Juan Bautista Malina </h1>
