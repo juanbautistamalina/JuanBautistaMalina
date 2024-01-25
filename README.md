@@ -32,6 +32,6 @@
 
 <h2 align="center">Contáctame 📪</h2>
 <li><a>malinajuanbautista@gmail.com</a></li>
-
+<li><a>https://www.linkedin.com/in/juan-bautista-malina/</a></li>
 
 </body>
