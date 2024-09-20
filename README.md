@@ -19,11 +19,11 @@
 <p align="left">
 🎓 TÉNICO EN PROGRAMACIÓN
 
-📚 Aprendizaje Continuo: Deseo y capacidad de seguir aprendiendo y mejorando constantemente.
+📚 Aprendizaje Continuo: Autodidacta con una gran capacidad para aprender rápidamente y adoptar nuevas tecnologías. 
 
-📁 Organización: Capacidad para mantener la estructura y el orden en proyectos y tareas.
+🔍 Mentalidad de Crecimiento: Abierto a recibir retroalimentación y dispuesto a aprender de los demás.
 
-📝 Gestión del Tiempo: Habilidad para administrar eficientemente el tiempo y priorizar tareas de manera efectiva.
+📈 Motivación por Mejorar: Enfocado en fortalecer mis habilidades en programación y expandir mi conocimiento técnico constantemente. 
 
 📫 Contacto: **malinajuanbautista@gmail.com**
   </p>
