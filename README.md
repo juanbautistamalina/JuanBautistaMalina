@@ -35,7 +35,7 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&perline=12"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&perline=12"/><br>
         <img src="https://skillicons.dev/icons?i=java,py,git,github,vscode&perline=12"/>
   </a>
 </p>
