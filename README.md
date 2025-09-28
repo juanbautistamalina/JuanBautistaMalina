@@ -17,11 +17,11 @@
 
 ###
 
-<p align="left">I am a frontend developer with knowledge in HTML, CSS, JavaScript, and React. I am passionate about creating clean, functional, and accessible interfaces, always striving for the best user experience. I am committed to continuous learning and facing new challenges that help me grow professionally.<br><br>- Development and maintenance of web interfaces using HTML, CSS, and JavaScript.  <br>- Creation of interactive applications and reusable components with React.  <br>- Focus on usability, accessibility, and application performance.  <br>- Ability to collaborate with teams and quickly adapt to new technologies.  <br>- Passionate about continuous learning and constant improvement.  <br>- My goal is to contribute to the team's success while growing professionally.</p>
+<p align="left">I am a frontend developer with knowledge in HTML, CSS, JavaScript, React, and Node.js. I am passionate about creating clean, functional, and accessible interfaces, always striving for the best user experience. I am committed to continuous learning and facing new challenges that help me grow professionally.<br><br>- Development and maintenance of web interfaces using HTML, CSS, and JavaScript.  <br>- Creation of interactive applications and reusable components with React.  <br>- Basic experience with Node.js for backend development. <br>- Focus on usability, accessibility, and application performance.  <br>- Ability to collaborate with teams and quickly adapt to new technologies.  <br>- Passionate about continuous learning and constant improvement.  <br>- My goal is to contribute to the team's success while growing professionally.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -34,11 +34,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="8" />
