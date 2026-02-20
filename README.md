@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Juan Bautista Malina 👋</h1>
+<h1 align="center">Hola, soy Juan Bautista Malina 👋🏻</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-bautista-malina/" target="_blank">
@@ -9,7 +9,6 @@
   </a>
 </div>
 
----
 
 <h3 align="left">👨‍💻 Sobre mí</h3>
 
@@ -33,7 +32,7 @@ Estoy comprometido con el aprendizaje continuo y con enfrentar nuevos desafíos 
 
 <p align="left">
 📘 <strong>CS50 – Harvard</strong>: fundamentos de ciencias de la computación y pensamiento computacional.<br>
-🎮 <strong>Godot</strong>: primeros pasos en desarrollo de videojuegos y lógica aplicada.
+<!-- 🎮 <strong>Godot</strong>: primeros pasos en desarrollo de videojuegos y lógica aplicada. -->
 </p>
 
 ---
@@ -92,9 +91,9 @@ Estoy comprometido con el aprendizaje continuo y con enfrentar nuevos desafíos 
 <h3 align="left">🔥 Estadísticas</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanbautistamalina&show_icons=true&theme=monokai&hide_border=true" />
-  <br><br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=juanbautistamalina&show_icons=true&theme=monokai&hide_border=true" />
+  <br><br> -->
   <img src="https://streak-stats.demolab.com?user=juanbautistamalina&theme=monokai&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbautistamalina&layout=compact&theme=monokai&hide_border=true" />
+  <!-- <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanbautistamalina&layout=compact&theme=monokai&hide_border=true" /> -->
 </div>
