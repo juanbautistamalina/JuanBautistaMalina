@@ -91,7 +91,7 @@ Estoy comprometido con el aprendizaje continuo y con enfrentar nuevos desafíos 
 <h3 align="left">🎓 Certificados</h3>
 <p align="left">
   📜 <strong>CS50x – Harvard</strong><br>
-  <img src="assets/images/CS50x.PNG" alt="Certificado CS50x" width="400" />
+  <img src="assets/images/CS50x.png" alt="Certificado CS50x" width="400" />
 </p>
 
 ---
